@@ -154,6 +154,10 @@ footer div {
   border-radius: 100px;
 }
 
+.cta:hover {
+background: #1d2f3b;
+}
+
 .col {
   background-color: #ececec;
   margin: 2%;
